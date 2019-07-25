@@ -1,1 +1,1 @@
-# golang-typescript-boilerplate
+# art_website_golang
